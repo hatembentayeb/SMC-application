@@ -1,2 +1,2 @@
 # SMC-application
-SMC est application de gestions de stock 
+société maamoun commerce est une sociéte spécialisé en ventes des produits elemntaires et nettoyant
